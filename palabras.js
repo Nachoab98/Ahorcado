@@ -1,0 +1,1 @@
+const words=['carne','martillo','lavadora','sucio','auto','raro','bello','beber','tomar','perro','gato','pato','raton','silbato','bocado','boca']
